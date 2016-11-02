@@ -1,2 +1,3 @@
+echo"list"
 ls
 who
