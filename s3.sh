@@ -1,0 +1,3 @@
+echo"list"
+ls
+who
